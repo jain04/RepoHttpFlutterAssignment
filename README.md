@@ -16,3 +16,6 @@ A Flutter application that fetches posts from the JSONPlaceholder API and displa
 - Flutter SDK installed on your machine
 - An IDE (e.g., Android Studio, Visual Studio Code) with Flutter and Dart plugins
 
+### Screenshot
+![List of Posts](screenshots/Screenshot1.png)
+
